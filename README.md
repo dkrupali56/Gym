@@ -3,7 +3,7 @@
 Welcome to Gym, your ultimate fitness solution! This app is designed to help you complete daily workouts from the comfort of your own home. With Gym, you can achieve your fitness goals and stay in shape.
 ## Image
 
-![image](https://github.com/dkrupali56/Gym/assets/109815626/4b14e240-afa5-42c1-bd8f-c79649042be8)
+![image](https://github.com/dpvasani/Gym/assets/109815626/4b14e240-afa5-42c1-bd8f-c79649042be8)
 
 
 ## Register
